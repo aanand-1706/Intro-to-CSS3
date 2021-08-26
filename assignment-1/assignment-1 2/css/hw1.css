@@ -1,0 +1,27 @@
+header{
+	background-color: #808080;
+}
+
+h1{
+	color: #FFFFFF;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+a{
+	color: #000000;
+	background-color: #FFFFF0;
+}
+
+.left{
+	display: none;
+}
+
+h2{
+	color: #000080;
+	text-transform: uppercase;
+}
+
+.right{
+	background-color: #808080; 
+}
