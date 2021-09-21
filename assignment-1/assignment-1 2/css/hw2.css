@@ -7,7 +7,7 @@ header{
 	background-color: #808080;
 	background-image: url("../images/flywheel.jpg");
 	background-size: cover;
-	height: 25vh;
+	padding: 0.5%;
 }
 
 h1{
@@ -18,16 +18,19 @@ h1{
 	padding: 20px;
 }
 
-a{
-	color: #000000;
-	background-color: #FFFFF0;
+nav{
+	text-align: center;
 }
 
 nav a{
-	margin: 10%;
-	padding: 5px;
+	display: inline-block;
+	width: 15%;
+	margin:  3%;
+	padding:  0.5%;
 	text-decoration: none;
 	border-radius: 	5px;
+	color: #000000;
+	background-color: #FFFFF0;
 }
 nav a:visited{
 		color: #6a5acd;
@@ -56,15 +59,17 @@ h2{
 .left img{
 	display: block;
 	margin:auto;
-	margin-top: 10px;
-	width: 200px;
-	border: solid;
+	margin-top: 3%;
+	width: 80%;
+	border: solid #000000;
 }
 
 .right{
 	margin: 10px;
 	float: left;
-	width: 45%;
+	width:  70%;
 	height: 100vh;
+	font-size: 110%;
 }
+
 
